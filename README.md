@@ -1,5 +1,17 @@
 # 三角洲行动游戏反馈洞察助手
 
+## AI 作品集入口
+
+- `index.html`：面试官入口页。
+- `dashboard/index.html`：交互式反馈洞察看板。
+- `portfolio/case-study.pdf`：三页案例。
+- `portfolio/demo/demo-preview.gif`：动态演示预览。
+- `portfolio/demo-script.md`：两分钟讲解脚本。
+- `resume/AI作品集简历条目.md`：可直接加入简历的条目。
+- `deliverables/面试官版-三角洲反馈洞察.zip`：可离线发送的完整作品集。
+
+> 作品集定位为“AI 辅助数据分析与运营洞察”，不宣称训练模型、生产上线或业务因果效果。
+
 这是一个面向游戏运营、产品分析和策划场景的反馈分析项目。项目从 Steam、苹果应用商店、TapTap 和 B站读取公开评论，完成匿名化、标准化、主题分类、情绪判断、严重度评估、人工抽检、看板和报告生成。
 
 ## 当前成果
@@ -22,6 +34,8 @@
 - `data/raw/`：匿名化原始快照与来源状态。
 - `data/processed/`：标准反馈表、分析表、汇总指标和人工抽检数据。
 - `dashboard/index.html`：完全离线、可交互的单文件看板。
+- `portfolio/`：作品集入口、案例 PDF、截图和演示资产。
+- `resume/`：含 AI 作品集的新版简历与更新说明。
 - `reports/`：周报、案例研究、分类标准和人工验证报告。
 - `work/`：采集探针、验收脚本和中间文件。
 
@@ -47,7 +61,9 @@ node src/collect_bilibili_supplement.js
 - `src/collect_bilibili_supplement.js`：在平台限流恢复后低频补充 B站评论。
 - `src/process.js`：清洗、去重、分类、汇总和人工验证指标计算。
 - `src/build_dashboard.js`：将分析数据嵌入离线看板。
-- `src/dashboard-template.html`：看板模板。
+- `src/llm_compare.js`：大模型分类对照样本与运行入口。
+- `src/create_second_review.js`：生成第二标注者任务。
+- `src/evaluate_second_review.js`：计算第二标注者一致率。
 
 ## 数据原则
 
