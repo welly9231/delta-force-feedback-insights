@@ -42,5 +42,6 @@ footer(2);c.showPage()
 # 第三页
 bg();title('CASE STUDY / 03','验证与局限：把不确定性写进作品集','48 条分层抽检不是独立双人标注，结论仅用于趋势与问题发现')
 img=Image.open(A/'03-evaluation.png');ratio=img.height/img.width;w=W-84;h=w*ratio;c.drawImage(str(A/'03-evaluation.png'),42,H-130-h,width=w,height=h)
-y=H-155-h;box(42,y-145,W-84,130,'可展示能力\nAI 工作流设计、数据采集与清洗、分类标准、人工验证、交互式看板、运营优先级与合规边界。\n下一步：大模型分类对照、第二标注者、宏平均 F1、在线部署、两分钟演示视频和定时采集。',size=10.5)
+y=H-155-h;box(42,y-145,W-84,130,'可展示能力\nAI 工作流设计、数据采集与清洗、分类标准、人工验证、交互式看板、运营优先级与合规边界。\n下一步：补充真人第二标注者、宏平均 F1、定时采集和 MP4 演示视频；Copilot 分类对照与 60 条独立 AI 复核已完成。',size=10.5)
 footer(3);c.save();print(OUT)
+

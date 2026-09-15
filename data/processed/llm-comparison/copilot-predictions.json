@@ -1,0 +1,290 @@
+[
+  {
+    "feedback_id": "DFF-000001",
+    "theme": "搜打撤与经济",
+    "sentiment": "负向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000002",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000007",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000053",
+    "theme": "外挂与安全",
+    "sentiment": "混合",
+    "severity": "高"
+  },
+  {
+    "feedback_id": "DFF-000084",
+    "theme": "其他",
+    "sentiment": "负向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000119",
+    "theme": "性能与优化",
+    "sentiment": "混合",
+    "severity": "中"
+  },
+  {
+    "feedback_id": "DFF-000133",
+    "theme": "外挂与安全",
+    "sentiment": "负向",
+    "severity": "高"
+  },
+  {
+    "feedback_id": "DFF-000156",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000194",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000224",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000264",
+    "theme": "性能与优化",
+    "sentiment": "负向",
+    "severity": "中"
+  },
+  {
+    "feedback_id": "DFF-000299",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000304",
+    "theme": "性能与优化",
+    "sentiment": "负向",
+    "severity": "严重"
+  },
+  {
+    "feedback_id": "DFF-000346",
+    "theme": "其他",
+    "sentiment": "负向",
+    "severity": "中"
+  },
+  {
+    "feedback_id": "DFF-000383",
+    "theme": "搜打撤与经济",
+    "sentiment": "混合",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000403",
+    "theme": "其他",
+    "sentiment": "负向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000422",
+    "theme": "匹配与队友",
+    "sentiment": "负向",
+    "severity": "高"
+  },
+  {
+    "feedback_id": "DFF-000474",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000481",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000537",
+    "theme": "付费与通行证",
+    "sentiment": "负向",
+    "severity": "中"
+  },
+  {
+    "feedback_id": "DFF-000546",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000581",
+    "theme": "性能与优化",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000620",
+    "theme": "客服与封禁",
+    "sentiment": "负向",
+    "severity": "高"
+  },
+  {
+    "feedback_id": "DFF-000656",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000663",
+    "theme": "其他",
+    "sentiment": "负向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000699",
+    "theme": "付费与通行证",
+    "sentiment": "混合",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000733",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000769",
+    "theme": "界面与操作体验",
+    "sentiment": "负向",
+    "severity": "中"
+  },
+  {
+    "feedback_id": "DFF-000811",
+    "theme": "任务与成长",
+    "sentiment": "负向",
+    "severity": "高"
+  },
+  {
+    "feedback_id": "DFF-000842",
+    "theme": "搜打撤与经济",
+    "sentiment": "混合",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000875",
+    "theme": "其他",
+    "sentiment": "中性",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000904",
+    "theme": "匹配与队友",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000937",
+    "theme": "地图与模式",
+    "sentiment": "负向",
+    "severity": "中"
+  },
+  {
+    "feedback_id": "DFF-000943",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-000971",
+    "theme": "客服与封禁",
+    "sentiment": "负向",
+    "severity": "严重"
+  },
+  {
+    "feedback_id": "DFF-001001",
+    "theme": "界面与操作体验",
+    "sentiment": "负向",
+    "severity": "严重"
+  },
+  {
+    "feedback_id": "DFF-001030",
+    "theme": "地图与模式",
+    "sentiment": "负向",
+    "severity": "高"
+  },
+  {
+    "feedback_id": "DFF-001059",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-001089",
+    "theme": "外挂与安全",
+    "sentiment": "负向",
+    "severity": "严重"
+  },
+  {
+    "feedback_id": "DFF-001118",
+    "theme": "性能与优化",
+    "sentiment": "负向",
+    "severity": "中"
+  },
+  {
+    "feedback_id": "DFF-001148",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-001179",
+    "theme": "性能与优化",
+    "sentiment": "负向",
+    "severity": "高"
+  },
+  {
+    "feedback_id": "DFF-001208",
+    "theme": "外挂与安全",
+    "sentiment": "混合",
+    "severity": "高"
+  },
+  {
+    "feedback_id": "DFF-001238",
+    "theme": "性能与优化",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-001267",
+    "theme": "正向反馈",
+    "sentiment": "正向",
+    "severity": "低"
+  },
+  {
+    "feedback_id": "DFF-001334",
+    "theme": "武器与干员平衡",
+    "sentiment": "负向",
+    "severity": "高"
+  },
+  {
+    "feedback_id": "DFF-001366",
+    "theme": "客服与封禁",
+    "sentiment": "负向",
+    "severity": "严重"
+  },
+  {
+    "feedback_id": "DFF-001398",
+    "theme": "搜打撤与经济",
+    "sentiment": "混合",
+    "severity": "中"
+  }
+]

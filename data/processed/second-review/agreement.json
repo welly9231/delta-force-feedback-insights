@@ -1,0 +1,22 @@
+{
+  "sample_size": 60,
+  "theme": {
+    "field": "theme",
+    "agreement": 68.3,
+    "matches": 41,
+    "total": 60
+  },
+  "sentiment": {
+    "field": "sentiment",
+    "agreement": 63.3,
+    "matches": 38,
+    "total": 60
+  },
+  "severity": {
+    "field": "severity",
+    "agreement": 61.7,
+    "matches": 37,
+    "total": 60
+  },
+  "note": "这是规则分类与 Copilot 独立复核之间的一致性，不是真人第二标注者结果，也不能替代双人标注。"
+}

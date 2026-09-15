@@ -1,0 +1,28 @@
+{
+  "status": "completed",
+  "model": "GitHub Copilot CLI",
+  "generated_at": "2026-09-15T06:27:56.080Z",
+  "sample_size": 48,
+  "metrics": [
+    {
+      "field": "theme",
+      "accuracy": 77.1,
+      "correct": 37,
+      "total": 48
+    },
+    {
+      "field": "sentiment",
+      "accuracy": 79.2,
+      "correct": 38,
+      "total": 48
+    },
+    {
+      "field": "severity",
+      "accuracy": 81.3,
+      "correct": 39,
+      "total": 48
+    }
+  ],
+  "exact_accuracy": 50,
+  "note": "人工抽检样本曾用于规则校准；这里比较的是人工标签与 Copilot 独立分类，不代表独立测试集。"
+}
