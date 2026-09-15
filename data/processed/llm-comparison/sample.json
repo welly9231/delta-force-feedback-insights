@@ -1,0 +1,770 @@
+[
+  {
+    "feedback_id": "DFF-000001",
+    "source": "B站",
+    "content": "这视频刚发 物价就涨疯了[笑哭]8分钟戒指直接涨到16w",
+    "rating": "",
+    "human": {
+      "theme": "搜打撤与经济",
+      "sentiment": "负向",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "搜打撤与经济",
+      "sentiment": "负向",
+      "severity": "中"
+    }
+  },
+  {
+    "feedback_id": "DFF-000002",
+    "source": "TapTap",
+    "content": "干员语音挺有梗，打起来偶尔冒一句能笑出声，队友听了也跟着乐",
+    "rating": 5,
+    "human": {
+      "theme": "界面与操作体验",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "匹配与队友",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000007",
+    "source": "Steam",
+    "content": "excelente para ser gratis",
+    "rating": "推荐",
+    "human": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000053",
+    "source": "Steam",
+    "content": "«Сын маминой подруги» от мира шутеров Если бы у Battlefield 2042 и Escape from Tarkov родился внебрачный ребенок, который рос без надзора EA и Battlestate Games, то получилась бы Delta Force. Плюсы: Оптимизация: Игра стабильно выдает высокий FPS даже на среднем «железе», в то время как конкуренты до сих пор борются с базовой прогрузкой текстур. Кастомизация оружия: Оружейное порно во всей красе — на сборку идеального ствола можно потратить больше времени, чем на саму катку. Режим Operations: Отличная альтернатива для тех, кому нравится концепция extraction-шутеров, но без хардкорного порога вхождения и необходимости заучивать карты по гайдам. Модель распространения: Игра бесплатная, а внутриигровой донат не дает решающего преимущества в бою. Минусы: Героический сеттинг: Вместо суровых бойцов из оригинальных частей мы получили оперативников со способностями вроде стрел-радаров и дистанционного лечения, из-за чего игра временами напоминает Valorant. Баланс техники: В режиме Warfare бронетехника чувствует себя слишком вольготно, и против танка на точке пехоте зачастую нечего противопоставить. Проблемы с античитом: Периодически встречаются подозрительные игроки с реакцией киборга и стрельбой через кусты. Итог: Лучшая бесплатная альтернатива для тех, кто давно ждал хорошего масштабного шутера. У игры есть шероховатости с балансом, но побегать с друзьями по вечерам — определенно стоит.",
+    "rating": "推荐",
+    "human": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "搜打撤与经济",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000084",
+    "source": "Steam",
+    "content": "ahit",
+    "rating": "不推荐",
+    "human": {
+      "theme": "其他",
+      "sentiment": "负向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "其他",
+      "sentiment": "负向",
+      "severity": "中"
+    }
+  },
+  {
+    "feedback_id": "DFF-000119",
+    "source": "Steam",
+    "content": "JUEGAZOOO! PERO ARREGLEN EL TEMA DE LAS ACTUALIZACIONES :( YA VA COMO POR 200 GB",
+    "rating": "推荐",
+    "human": {
+      "theme": "性能与优化",
+      "sentiment": "混合",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "性能与优化",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000133",
+    "source": "苹果应用商店",
+    "content": "核电厂石棺后面设置了一个跑酷 只要进去了 就必须通关不然出不来 至少给个放弃选项吧 这条路不能走 换条路不就行了 非得要把别人弄的迷失 还有那么多透视举报你也不管",
+    "rating": 1,
+    "human": {
+      "theme": "外挂与安全",
+      "sentiment": "负向",
+      "severity": "高"
+    },
+    "rules": {
+      "theme": "外挂与安全",
+      "sentiment": "负向",
+      "severity": "高"
+    }
+  },
+  {
+    "feedback_id": "DFF-000156",
+    "source": "Steam",
+    "content": "♥♥♥♥♥",
+    "rating": "推荐",
+    "human": {
+      "theme": "其他",
+      "sentiment": "中性",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000194",
+    "source": "Steam",
+    "content": "Good.",
+    "rating": "推荐",
+    "human": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000224",
+    "source": "苹果应用商店",
+    "content": "太好玩了一把两颗心，还出了一条炫彩雷龙",
+    "rating": 5,
+    "human": {
+      "theme": "搜打撤与经济",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "搜打撤与经济",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000264",
+    "source": "苹果应用商店",
+    "content": "下载资源限速",
+    "rating": 1,
+    "human": {
+      "theme": "性能与优化",
+      "sentiment": "负向",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "性能与优化",
+      "sentiment": "负向",
+      "severity": "中"
+    }
+  },
+  {
+    "feedback_id": "DFF-000299",
+    "source": "苹果应用商店",
+    "content": "好玩好玩好玩好玩好玩好玩好玩好玩好玩好玩好玩好玩好玩",
+    "rating": 5,
+    "human": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000304",
+    "source": "Steam",
+    "content": "我讲真的，更新了s11赛季之后是不给我们这种电脑玩的了是吧 16g都能爆也是牛逼了",
+    "rating": "不推荐",
+    "human": {
+      "theme": "性能与优化",
+      "sentiment": "负向",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "性能与优化",
+      "sentiment": "负向",
+      "severity": "中"
+    }
+  },
+  {
+    "feedback_id": "DFF-000346",
+    "source": "苹果应用商店",
+    "content": "三角洲完蛋了",
+    "rating": 1,
+    "human": {
+      "theme": "其他",
+      "sentiment": "负向",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "其他",
+      "sentiment": "负向",
+      "severity": "中"
+    }
+  },
+  {
+    "feedback_id": "DFF-000383",
+    "source": "苹果应用商店",
+    "content": "调高点暴率就好了",
+    "rating": 5,
+    "human": {
+      "theme": "搜打撤与经济",
+      "sentiment": "中性",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "搜打撤与经济",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000403",
+    "source": "Steam",
+    "content": "kötü",
+    "rating": "不推荐",
+    "human": {
+      "theme": "其他",
+      "sentiment": "负向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "其他",
+      "sentiment": "负向",
+      "severity": "中"
+    }
+  },
+  {
+    "feedback_id": "DFF-000422",
+    "source": "苹果应用商店",
+    "content": "很希望策划能把这个匹配机制优化一下，比如能不能不要总是把一个三套鼠鼠和一大群六套猛攻哥匹配在一起或者说能不能不匹配一堆神人队友。还有那个出货概率，有些人高的要死但是很多普通玩家十几把才只能出一个小红。还有那个手游环境能不能优化一下？我有一次好不容易出了个曼德尔超算，然后有人打暗号然后我就回了结果的人反手就用枪给我打了，然后我还没九格。现在手游真的没有人类了，就是手游玩红薯基本都会匹配一些神人队友，后座力控制都快满了，他还压不住枪，我没了之后跳转视角我看力竭了，而且有时候你用AWM或者巴雷特￼近距离一枪甚至打不死人而且打的是身体不是四肢。最后我只想说一句话：我需要暴率！！！对了有些任务是给人做的吗？张风有一个任务叫用M16A4打掉不记得多少人。策划，你自己想想这枪是人用的的吗，你要不给这东西加个全自动的枪机他就根本不是人用的。不是我这写的跟屎一样。这句是后说的：不是我玩了一把普通长弓怎么一堆鼠鼠？",
+    "rating": 5,
+    "human": {
+      "theme": "匹配与队友",
+      "sentiment": "负向",
+      "severity": "高"
+    },
+    "rules": {
+      "theme": "匹配与队友",
+      "sentiment": "负向",
+      "severity": "高"
+    }
+  },
+  {
+    "feedback_id": "DFF-000474",
+    "source": "苹果应用商店",
+    "content": "好玩😘",
+    "rating": 5,
+    "human": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000481",
+    "source": "Steam",
+    "content": "this is one of the best extraction shooter games with its ups and downs. the operators add a unique gimmick to the game but they dont feel necesarly broken or unfair positioning is way more important than your character",
+    "rating": "推荐",
+    "human": {
+      "theme": "搜打撤与经济",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "搜打撤与经济",
+      "sentiment": "混合",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000537",
+    "source": "苹果应用商店",
+    "content": "快点出彦祖快点给二周年点券不然小🐓🐓打爆",
+    "rating": 5,
+    "human": {
+      "theme": "付费与通行证",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "付费与通行证",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000546",
+    "source": "Steam",
+    "content": "good",
+    "rating": "推荐",
+    "human": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000581",
+    "source": "苹果应用商店",
+    "content": "就是感觉吗，这个做得比较真实，然后在充电过程中打游戏也不是很卡，就是一个比较推荐手机，用多年一种游戏",
+    "rating": 5,
+    "human": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "其他",
+      "sentiment": "混合",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000620",
+    "source": "苹果应用商店",
+    "content": "666蟑螂地下你看看你做的游戏不仅暴率低还时常进黑屋每次普通都是四套你做什么游戏啊",
+    "rating": 1,
+    "human": {
+      "theme": "客服与封禁",
+      "sentiment": "负向",
+      "severity": "高"
+    },
+    "rules": {
+      "theme": "客服与封禁",
+      "sentiment": "负向",
+      "severity": "高"
+    }
+  },
+  {
+    "feedback_id": "DFF-000656",
+    "source": "Steam",
+    "content": "okay",
+    "rating": "推荐",
+    "human": {
+      "theme": "正向反馈",
+      "sentiment": "中性",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000663",
+    "source": "苹果应用商店",
+    "content": "垃圾垃圾",
+    "rating": 1,
+    "human": {
+      "theme": "其他",
+      "sentiment": "负向",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "其他",
+      "sentiment": "负向",
+      "severity": "中"
+    }
+  },
+  {
+    "feedback_id": "DFF-000699",
+    "source": "苹果应用商店",
+    "content": "就是那个要是重塑皮肤可以免费领的话，那就更好邮件，你想要一颗非洲之星",
+    "rating": 5,
+    "human": {
+      "theme": "付费与通行证",
+      "sentiment": "中性",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "付费与通行证",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000733",
+    "source": "苹果应用商店",
+    "content": "游戏做得非常好",
+    "rating": 5,
+    "human": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000769",
+    "source": "苹果应用商店",
+    "content": "单挑创建房间名称不可用怎么回事，什么时候修复下",
+    "rating": 5,
+    "human": {
+      "theme": "界面与操作体验",
+      "sentiment": "负向",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "界面与操作体验",
+      "sentiment": "负向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000811",
+    "source": "Steam",
+    "content": "This season 11 is the buggiest and worse so far. The Thompson and MDR can't be unlocked even after completed Armory challenges. When click on the guns, it say its on seasonal challenge but nothing shows there. Also damn you for removing k416 for Hackclaw eventhoug the new skin in seasonal pass have both in same skins",
+    "rating": "不推荐",
+    "human": {
+      "theme": "任务与成长",
+      "sentiment": "负向",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "任务与成长",
+      "sentiment": "负向",
+      "severity": "中"
+    }
+  },
+  {
+    "feedback_id": "DFF-000842",
+    "source": "Steam",
+    "content": "爆率我觉得可以三调一点点都可以",
+    "rating": "推荐",
+    "human": {
+      "theme": "搜打撤与经济",
+      "sentiment": "中性",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "搜打撤与经济",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000875",
+    "source": "Steam",
+    "content": "qqqqqqqqqqqqqqqqqqqqqqqqqqq",
+    "rating": "推荐",
+    "human": {
+      "theme": "其他",
+      "sentiment": "中性",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000904",
+    "source": "Steam",
+    "content": "кто со мной играть и прокачиватся беру любых",
+    "rating": "推荐",
+    "human": {
+      "theme": "匹配与队友",
+      "sentiment": "中性",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000937",
+    "source": "Steam",
+    "content": "หาห้องไป5ตา ได้เล่นด่านเดิม5ตา กูถามจริง อัพเดทเพิ่มมาเกือบ200GB มีอะไรดีขึ้นที่มันจับต้องได้บ้าง",
+    "rating": "不推荐",
+    "human": {
+      "theme": "性能与优化",
+      "sentiment": "负向",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "性能与优化",
+      "sentiment": "负向",
+      "severity": "中"
+    }
+  },
+  {
+    "feedback_id": "DFF-000943",
+    "source": "TapTap",
+    "content": "长弓溪谷静水湾傍晚的光影绝了，夕阳洒在水面上，甩两杆的功夫心情都变好了",
+    "rating": 5,
+    "human": {
+      "theme": "地图与模式",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "地图与模式",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-000971",
+    "source": "Steam",
+    "content": "玩了三天莫名其妙说行为数据异常给我封了，早知道不下这个游戏了",
+    "rating": "不推荐",
+    "human": {
+      "theme": "客服与封禁",
+      "sentiment": "负向",
+      "severity": "高"
+    },
+    "rules": {
+      "theme": "性能与优化",
+      "sentiment": "负向",
+      "severity": "中"
+    }
+  },
+  {
+    "feedback_id": "DFF-001001",
+    "source": "Steam",
+    "content": "无线进入观察期，根本出不来。无线进入观察期，根本出不来无线进入观察期，根本出不来无线进入观察期，根本出不来无线进入观察期，根本出不来无线进入观察期，根本出不来无线进入观察期，根本出不来无线进入观察期，根本出不来无线进入观察期，根本出不来",
+    "rating": "不推荐",
+    "human": {
+      "theme": "客服与封禁",
+      "sentiment": "负向",
+      "severity": "严重"
+    },
+    "rules": {
+      "theme": "客服与封禁",
+      "sentiment": "负向",
+      "severity": "高"
+    }
+  },
+  {
+    "feedback_id": "DFF-001030",
+    "source": "Steam",
+    "content": "Delta Force heeft in de basis alles in huis om een fantastische shooter te zijn: de gunplay voelt strak en de graphics zijn ♥♥♥ in orde. Maar de modus Havoc Warfare—en dan met name de map The Mog—is op dit moment een absolute sfeerconstructie en een belediging voor infanterie-spelers.De voertuigbalans en het mapdesign slaan hier helemaal nergens op. Het ontwerp dwingt spelers over open vlaktes zonder fatsoenlijke dekking, waardoor je pure opvulling bent voor de killstreaks van vijandelijke tanks.Het meest achterlijke voorbeeld hiervan is de dynamiek rondom sectoren zoals C2. Als de vijand C2 eenmaal inneemt, word je als verliezend team niet eens de kans gegund om fatsoenlijk terug te trekken naar de basis. Je wordt direct bij het spawnen of teruglopen compleet klemgezet en neergemaaid door een muur van tanks die de spawn-outgangen kapotcampen. Er is géén ademruimte, géén alternatieve route en nul tactische vrijheid.En het houdt niet op bij één sector: deze eentonige, frustrerende ellende herhaalt zich simpelweg meerdere keren binnen exact hetzelfde potje. De game verplaatst de spawn, de tanks rijden sneller naar de volgende sector dan dat jij kunt rennen, en de vicieuze cirkel begint direct weer opnieuw. Het resultaat? Zodra de vijand de overhand heeft en de cyclus zich herhaalt, klapt de rest van de map binnen 3 minuten volledig in elkaar omdat er geen schijn van kans is op een comeback. Het is een zielloze, frustrerende vertoning die de game razendsnel kapotmaakt.In plaats van tactische vuurgevechten ben je de hele wedstrijd veredeld vuilnisman voor vijandelijke tanks. Je móét wel als anti-tank Engineer spawnen, om vervolgens te zien hoe je raketten simpelweg worden geabsorbeerd door belachelijke actieve verdedigingssystemen (ADS) van voertuigen die na schade binnen no-time weer zijn gerepareerd.Ontwikkelaars, stop met het aanpassen van kleine percentages in de marge. Fix de absurde map-flow, geef infanterie fatsoenlijke vluchtroutes en beschermde spawns bij het verliezen van een sector, of geef ons gewoon een permanente modus zónder voertuigen.In de huidige staat is deze game niet leuk, maar puur slecht voor je bloeddruk. Bespaar jezelf de frustratie, gooi hem van je harde schijf en laat deze game links liggen totdat de ontwikkelaars daadwerkelijk naar de community luisteren.",
+    "rating": "不推荐",
+    "human": {
+      "theme": "地图与模式",
+      "sentiment": "混合",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "外挂与安全",
+      "sentiment": "负向",
+      "severity": "高"
+    }
+  },
+  {
+    "feedback_id": "DFF-001059",
+    "source": "Steam",
+    "content": "이게 무료게임이라고?? 말이 안된다 막 5만원씩 써서 fps 게임 사지 말고 이거부터 해보세요. 진짜 다신 못나올 무료게임 레전드(나중에 유료로 바뀔지도...?)",
+    "rating": "推荐",
+    "human": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-001089",
+    "source": "Steam",
+    "content": "If you enjoy getting shot the moment you turn a corner, as if everyone’s equipped with wall hacks, this is your dream game. If you’ve been longing for matchmaking that’s apparently on an extended beach vacation, look no further. The game? A complete joke. The anti-cheat? Also a joke. Save yourself the headache and avoid this digital dumpster fire entirely.",
+    "rating": "不推荐",
+    "human": {
+      "theme": "外挂与安全",
+      "sentiment": "负向",
+      "severity": "严重"
+    },
+    "rules": {
+      "theme": "外挂与安全",
+      "sentiment": "混合",
+      "severity": "严重"
+    }
+  },
+  {
+    "feedback_id": "DFF-001118",
+    "source": "Steam",
+    "content": "junge 104gb update ihr affensöhne",
+    "rating": "推荐",
+    "human": {
+      "theme": "性能与优化",
+      "sentiment": "负向",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "性能与优化",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-001148",
+    "source": "Steam",
+    "content": "Amazing, one of the best games ever. Highly addictive",
+    "rating": "推荐",
+    "human": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-001179",
+    "source": "Steam",
+    "content": "The optimization on this game is hella shiete now. you are basically a beta cuck sitting watching your game load while your enemy is killing and capturing every point on the game. even EA can manage optimization than this haul ass game.",
+    "rating": "不推荐",
+    "human": {
+      "theme": "性能与优化",
+      "sentiment": "负向",
+      "severity": "高"
+    },
+    "rules": {
+      "theme": "性能与优化",
+      "sentiment": "负向",
+      "severity": "中"
+    }
+  },
+  {
+    "feedback_id": "DFF-001208",
+    "source": "Steam",
+    "content": "better than pubg but same issue have cheaters",
+    "rating": "推荐",
+    "human": {
+      "theme": "外挂与安全",
+      "sentiment": "混合",
+      "severity": "高"
+    },
+    "rules": {
+      "theme": "外挂与安全",
+      "sentiment": "正向",
+      "severity": "高"
+    }
+  },
+  {
+    "feedback_id": "DFF-001238",
+    "source": "Steam",
+    "content": "uma placa 3070 operando de forma mais bruta se comparado com o bf 42 em termos de de desempenho",
+    "rating": "推荐",
+    "human": {
+      "theme": "性能与优化",
+      "sentiment": "负向",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-001267",
+    "source": "Steam",
+    "content": "la cabra de las cabras",
+    "rating": "推荐",
+    "human": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    },
+    "rules": {
+      "theme": "正向反馈",
+      "sentiment": "正向",
+      "severity": "低"
+    }
+  },
+  {
+    "feedback_id": "DFF-001334",
+    "source": "TapTap",
+    "content": "策划把一手好牌打稀烂，游戏玩法和多样性方面无疑是十分优秀的，但是环境差点离谱，游戏内的干员强度方面不平衡，爆率一言难尽，匹配机制还不如王者，物价飞涨官方也不下台调一下，游玩环境还一群烦人的小辣条，以前风光的时代已经一去不复返了，现在我好友列表全灰了，自己感觉也马上要退游了",
+    "rating": 1,
+    "human": {
+      "theme": "搜打撤与经济",
+      "sentiment": "负向",
+      "severity": "高"
+    },
+    "rules": {
+      "theme": "搜打撤与经济",
+      "sentiment": "混合",
+      "severity": "高"
+    }
+  },
+  {
+    "feedback_id": "DFF-001366",
+    "source": "TapTap",
+    "content": "什么叫朋友回归爆杀12个拿下天才少年叫开挂给我追缴1000万？什么叫打了三把绝密吃了不到20万，被送进了黑屋局？什么叫举报开挂的被当挂封了？什么叫在总裁窗户外面飞的威龙是绿玩？ 致敬最会审核，最照顾绿玩，最不爱追缴，最不爱暗改的游戏。",
+    "rating": 1,
+    "human": {
+      "theme": "外挂与安全",
+      "sentiment": "负向",
+      "severity": "严重"
+    },
+    "rules": {
+      "theme": "外挂与安全",
+      "sentiment": "负向",
+      "severity": "高"
+    }
+  },
+  {
+    "feedback_id": "DFF-001398",
+    "source": "TapTap",
+    "content": "第一章，普坝的天空 “普坝的天空并不总是湛蓝，但他总会把湛蓝，明媚的一面，留给每个初次踏上这里的玩家。” 你当然也不例外，在一个明艳的午后，你来到了这里。 灰尘在空中起舞，阳光那样温柔，澎湃的瀑布垂挂天空，迎面而来的风是多么鲜活，将这片土地的力量灌入你的胸膛。 . 水泥厂二号位（工地外围），当然萌新的你还不知道地图点位，映入眼帘的是一栋工厂模样的房子，当然，还有那该死的永不出货的蓝色旅行包 “交战搜索，搞定就撤。” 你开始行动。 . …… ………… 虽然总在迷路，但你总算完成任务，这把你击败了三个干员，包里揣着六十万的物资准备撤离。 . 撤离点的绿烟已清晰可见，你撒着欢蹦蹦跳跳，揣着野牛唱着歌，一路小跑过去。 . “砰，砰！” 漆黑的枪管从草里长出，犹带着几分火药撞击后产生的雾气。 . 子弹呢？子弹已打出。 人呢？人当然也已倒下！ . 尽管你还能动，还能爬行着等待救援，可你也明白，你的结局不会有任何改变。 . 那是个怎样的人呢？ 他披着面甲，身上的防弹衣明显跟你不是一个档次，身后的背包像小山一样高，一样鼓。 那他手上的枪呢？ 根本数不清枪身上的配件，本就致命的武器显露出苍白的光芒。 为什么是苍白？ 只因苍白的不是枪，是你的脸庞。 . 很久以后你才明白，他穿的是六套，红头红甲红背包，起了把满改的scar，打的子弹呢？当然是五级弹！ . 显然，他是一个沙币，却也是个给你留下阴影的沙币，否则你怎会在每把将要撤离的时候，那样谨慎，那样小心翼翼。 . 不知为何，在每次撤离的时候，你总会想起，那个残酷的人，那把危险的武器，和那两颗闪电般的子弹—致命的子弹。 . 渐渐，你失去了这个游戏的乐趣。你开始漫无目的地乱走，在每个地图留下你唐人的操作。 . 不能再这样了！ 你下定决心，要走出困境，你决定从今天开始，攒够一亿哈夫币！ . 在体验过所有地图后，你发现机密大坝最适合你，你一头扎了进去，开始没日没夜的跑刀赚钱。 . 凡是认识你的人，都说你变了，你不再起正常装备进图。一根枪管，一把刀，一个背包，没头甲，构成了你的全部。 . 在每一个凌晨，你蹲着补货来卡战备，跑刀也不再单三，补齐队友只为了匹配能更快一点。 . 在军营，你出了量子，二楼桌上出了显卡。 在水泥厂，水泥车倾倒的水泥里藏着装甲车电池，办公室里，一张巴克什的总裁卡静静躺在桌上。 变电站技术室里，白褂衣服塞着员工通道卡，保险箱里藏着蹬羚。 金库里出金条，游客中心桌上放着劳力士，甚至养护站的鸟窝里出了滑膛枪。 那行政楼呢？ 你知道的，行政楼里总有好东西。 . 你的足迹走遍了大坝的每个角落，当然你的盒子也是。你鲜活的生命力，已永远镌刻在这片迷人的土地…… . —— ———— 自那以后，不知过了多久，也许并不久，毕竟一亿并不难赚，不是吗。 . 你的仓库里塞满了金红，“金条，劳力士，滑膛枪，半身像，刀片服务器，超算单元，甚至是呼吸机。” . 令你遗憾的是，这个游戏最贵重的物品—非洲之心，并不曾眷顾过你。 . 最贵重吗？ 最贵重的当然是心，却不是非洲之心，而是每个玩家都曾拥有的，或许现在也有，他到处都是，却绝非廉价，甚至是无价，当然，你也曾拥有的——“热爱的心”。 . 残烛摇曳，月色已剪。 想来是一个失眠的晚上，你当然也一定会失眠，因为你终于赚够一亿哈夫币！ . 说不清那是一个怎样的时刻，神圣？光辉？成功？得意？不，月色微凉，你只感到几分惆怅，还带着些许迷惘。 . 片刻，你眼中闪过狡黠的光芒，激动的心，颤抖的手，你点开仓库…… . 十分钟后，你将珍藏的咖啡豆搓成六套，带上宝贵的红色背包，起了一把满改scar，打的子弹呢？当然是五级弹！ . 选的地图呢？不是绝密航天，而是普坝…… . “普坝的天空并不总是湛蓝，但今天的普坝却格外湛蓝，格外明媚。” . 东楼一号位 湛蓝的天空，明媚的阳光，起舞的灰尘，澎湃的瀑布，迎面而来舒服的风。 你对眼前的一切满意极了，早已不是萌新的你知晓一切点位的路线，东楼一号位自然也不在话下。 . 穿过集装箱，跑过停车场，直上二楼 沉闷的音乐响起，是赛伊德！ 若是以往跑刀，你一定会无视赛伊德，直奔保险箱。 但今天，你却无视保险箱，直奔赛伊德！ . 结局没有意外，他只是个普通难度的赛伊德，而你却是六套齐全的超级战士。 . 西楼枪响，你一点不搜物资，直奔枪响处 叮— 你击败了卫队长官［赛伊德］ 你击败了［大白兔奶糖］ 你击败了［夏天真冷ovo］ 你击败了［xchtvnjms］ 灭队 . 外围航空箱枪响，你看也不看盒子，再度出发 叮— 你击败了［蝉隐］ 你击败了［姬你太美］ 你击败了［传统派雪豹］ 灭队 . …… ………… 枪声逐渐稀少，直至消失，大地重归平静。 你已毁灭了目之所及的一切，一切枪声，一切玩家，一切人机，一切能动的生物…… . 行政楼已被你征服。 . 一股异样的红晕攀上你的面容，你的眼眸，你已经红了，却不是红温，而是血在躁动的鲜红！ . 紧随而来的是虚无，空洞的虚无。 你害怕的是虚无，还是孤独？ 但无论如何，你只能再度出发，因为你已回不了头，回不了头的路，岂非只能一直向前？ . 普坝撤离点 . 你凭着模糊的印象，找到了那个人人喊骂的埋伏点，静步，进草，架枪。 . 你没有等太久，普坝撤离的小道上，跑来一个稚嫩的脸庞，太阳在身后追赶，脖颈处挂满青春的汗珠，寸头短发里，藏着阳光的味道。 . 眼下，这初出茅庐的菜鸟正抱着他那把廉价，简陋的野牛，蹦蹦跳跳唱着歌，向撤离点跑去。 . 六倍镜的你当然尽收眼底，不过你的心思却不在这里。露营背包，简易弹挂，棒球帽，甲？那么烂的破布也能叫甲？ . 你讥笑一声 “砰，砰！” 两枪五级的7.62X51mm M62子弹已经射出，子弹既已射出，当然也已打中。 那么人呢？人当然也已倒下！ . 你已从草里走出，走向他去。 . 那是个怎样的人呢？ 他戴着个棒球帽，本就简陋的防弹衣已被打碎，破破烂烂，身后的背包又瘪又小。 那他手上的枪呢？ 一把简陋的野牛，没有任何配件。破烂的武器显露出苍白的光芒。 为什么是苍白？ 只因苍白的不是枪，是他的脸庞。 . 你将他变成了盒子。 不出意外，破烂的装备又怎会有好东西？一背包的小蓝小紫根本连舔的欲望都没有，你就要关上盒子准备撤离。 . 习惯性的一瞥，这是你每次舔完包后都会看一眼身份牌养成的习惯。这一瞥是如此日常，如此漫不经心。 . 突然你愣住了，脸上浮现出一种不可思议的表情。 . 嗯……该怎么形容这种表情呢？无法形容，因为他本不可能发生，可他竟真的出现！ . 那是你在舔包时，看见身份牌是自己名字时的表情！震惊的表情！不可思议，惶恐的表情！ . “轰隆！” 天边一道春雷乍起，万物归寂！雷光让你那骤然苍白的脸上，亮如白霜！ . ［战斗吧小林］这本是一个普通的不能再普通的名字，可当这名字出现在你的舔的包里，普通的事也变得不普通。 . 雷—雷声，水—大水，风—狂风 . 奇了怪，世上还有把人变成石雕的魔术？否则你怎会像个石雕一样，没有呼吸，没有动作，没有思考的静在那里？ . 像一块，石头？石头。 . 不知过了多久，你才终于有了动静，你看向手机屏幕外的那双眼睛，告诉他，你终于明白了三角洲的真谛！ . 那就是…… 猛攻！猛攻！！猛攻！！！ . 🎶🎶🎶🎶🎶🎶🎶🎶 ⚡️寂寞的人唱伤心的歌⚡️ 🎶🎶🎶🎶🎶🎶🎶🎶 ⚡️寂寞的人唱伤心的歌⚡️ . 夜色落幕的太执着😎🤫 不哭泣眼泪却掉落😫🥺 爱一个人是对是错😮‍💨🧐 为何总受伤的人不是你而是我😣😫 分手我还要留恋什么😠🤔 离开也是我猜到的一种结果😌🙂 解不开的沉重的枷锁😰😑 慢慢坠入了悲催的爱恨和漩涡😵‍💫😵 寂寞的人听着伤心的歌💃🪩⚡️ 只为寻找曾经的快乐💃👯‍♀️⚡️ 一遍一遍听着你会爱我🪩🥰🕺 为何心中的泪更难过😮‍💨😵‍💫 寂寞的人听着伤心的歌🤟🏻🕺🤟🏻 才发现爱情如此的脆弱🕺💃 为何你为爱付出了那么多🕺🪩💃 是否你从来没有被我感动过🤟🏻🤔😞 . 🎶🎶🎶🎶🎶🎶🎶🎶",
+    "rating": 4,
+    "human": {
+      "theme": "搜打撤与经济",
+      "sentiment": "混合",
+      "severity": "中"
+    },
+    "rules": {
+      "theme": "搜打撤与经济",
+      "sentiment": "混合",
+      "severity": "低"
+    }
+  }
+]

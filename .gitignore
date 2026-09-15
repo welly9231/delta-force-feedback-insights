@@ -1,0 +1,5 @@
+work/
+resume/
+.env
+*.log
+__pycache__/

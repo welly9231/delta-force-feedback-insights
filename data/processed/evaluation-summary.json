@@ -1,0 +1,223 @@
+{
+  "sample_size": 48,
+  "theme_accuracy": 81.3,
+  "sentiment_accuracy": 66.7,
+  "severity_accuracy": 75,
+  "exact_accuracy": 45.8,
+  "theme_confusion": {
+    "搜打撤与经济 → 搜打撤与经济": 7,
+    "界面与操作体验 → 匹配与队友": 1,
+    "正向反馈 → 正向反馈": 10,
+    "正向反馈 → 搜打撤与经济": 1,
+    "其他 → 其他": 4,
+    "性能与优化 → 性能与优化": 6,
+    "外挂与安全 → 外挂与安全": 4,
+    "其他 → 正向反馈": 2,
+    "匹配与队友 → 匹配与队友": 1,
+    "付费与通行证 → 付费与通行证": 2,
+    "正向反馈 → 其他": 1,
+    "客服与封禁 → 客服与封禁": 2,
+    "界面与操作体验 → 界面与操作体验": 1,
+    "任务与成长 → 任务与成长": 1,
+    "匹配与队友 → 正向反馈": 1,
+    "地图与模式 → 地图与模式": 1,
+    "客服与封禁 → 性能与优化": 1,
+    "地图与模式 → 外挂与安全": 1,
+    "性能与优化 → 正向反馈": 1
+  },
+  "mismatch_examples": [
+    {
+      "feedback_id": "DFF-000002",
+      "source": "TapTap",
+      "content": "干员语音挺有梗，打起来偶尔冒一句能笑出声，队友听了也跟着乐",
+      "machine": [
+        "匹配与队友",
+        "正向",
+        "低"
+      ],
+      "human": [
+        "界面与操作体验",
+        "正向",
+        "低"
+      ],
+      "notes": "主要是语音体验，不是匹配问题。"
+    },
+    {
+      "feedback_id": "DFF-000053",
+      "source": "Steam",
+      "content": "«Сын маминой подруги» от мира шутеров Если бы у Battlefield 2042 и Escape from Tarkov родился внебрачный ребенок, который рос без надзора EA и Battlestate Games, то получилась бы D",
+      "machine": [
+        "搜打撤与经济",
+        "正向",
+        "低"
+      ],
+      "human": [
+        "正向反馈",
+        "正向",
+        "低"
+      ],
+      "notes": "属于产品类比式肯定，不是性能问题。"
+    },
+    {
+      "feedback_id": "DFF-000084",
+      "source": "Steam",
+      "content": "ahit",
+      "machine": [
+        "其他",
+        "负向",
+        "中"
+      ],
+      "human": [
+        "其他",
+        "负向",
+        "低"
+      ],
+      "notes": "内容语义不足，人工只按不推荐判断弱负向。"
+    },
+    {
+      "feedback_id": "DFF-000119",
+      "source": "Steam",
+      "content": "JUEGAZOOO! PERO ARREGLEN EL TEMA DE LAS ACTUALIZACIONES :( YA VA COMO POR 200 GB",
+      "machine": [
+        "性能与优化",
+        "正向",
+        "低"
+      ],
+      "human": [
+        "性能与优化",
+        "混合",
+        "中"
+      ],
+      "notes": "认可游戏，但更新体积达到约 200GB。"
+    },
+    {
+      "feedback_id": "DFF-000156",
+      "source": "Steam",
+      "content": "♥♥♥♥♥",
+      "machine": [
+        "正向反馈",
+        "正向",
+        "低"
+      ],
+      "human": [
+        "其他",
+        "中性",
+        "低"
+      ],
+      "notes": "内容为屏蔽字符，无法可靠判断语义。"
+    },
+    {
+      "feedback_id": "DFF-000383",
+      "source": "苹果应用商店",
+      "content": "调高点暴率就好了",
+      "machine": [
+        "搜打撤与经济",
+        "正向",
+        "低"
+      ],
+      "human": [
+        "搜打撤与经济",
+        "中性",
+        "低"
+      ],
+      "notes": "要求提高爆率。"
+    },
+    {
+      "feedback_id": "DFF-000403",
+      "source": "Steam",
+      "content": "kötü",
+      "machine": [
+        "其他",
+        "负向",
+        "中"
+      ],
+      "human": [
+        "其他",
+        "负向",
+        "低"
+      ],
+      "notes": "土耳其语“kötü”表示差，但缺少具体问题。"
+    },
+    {
+      "feedback_id": "DFF-000481",
+      "source": "Steam",
+      "content": "this is one of the best extraction shooter games with its ups and downs. the operators add a unique gimmick to the game but they dont feel necesarly broken or unfair positioning is",
+      "machine": [
+        "搜打撤与经济",
+        "混合",
+        "低"
+      ],
+      "human": [
+        "搜打撤与经济",
+        "正向",
+        "低"
+      ],
+      "notes": "对搜打撤玩法总体积极。"
+    },
+    {
+      "feedback_id": "DFF-000581",
+      "source": "苹果应用商店",
+      "content": "就是感觉吗，这个做得比较真实，然后在充电过程中打游戏也不是很卡，就是一个比较推荐手机，用多年一种游戏",
+      "machine": [
+        "其他",
+        "混合",
+        "低"
+      ],
+      "human": [
+        "正向反馈",
+        "正向",
+        "低"
+      ],
+      "notes": "认可真实感和手机运行表现。"
+    },
+    {
+      "feedback_id": "DFF-000656",
+      "source": "Steam",
+      "content": "okay",
+      "machine": [
+        "正向反馈",
+        "正向",
+        "低"
+      ],
+      "human": [
+        "正向反馈",
+        "中性",
+        "低"
+      ],
+      "notes": "“okay”更接近中性认可。"
+    },
+    {
+      "feedback_id": "DFF-000699",
+      "source": "苹果应用商店",
+      "content": "就是那个要是重塑皮肤可以免费领的话，那就更好邮件，你想要一颗非洲之星",
+      "machine": [
+        "付费与通行证",
+        "正向",
+        "低"
+      ],
+      "human": [
+        "付费与通行证",
+        "中性",
+        "低"
+      ],
+      "notes": "希望皮肤免费领取并期待奖励。"
+    },
+    {
+      "feedback_id": "DFF-000769",
+      "source": "苹果应用商店",
+      "content": "单挑创建房间名称不可用怎么回事，什么时候修复下",
+      "machine": [
+        "界面与操作体验",
+        "负向",
+        "低"
+      ],
+      "human": [
+        "界面与操作体验",
+        "负向",
+        "中"
+      ],
+      "notes": "房间命名不可用，属于交互问题。"
+    }
+  ],
+  "note": "抽检由单一分析师完成，用于发现系统性错误，不等同于独立双人标注一致性检验。"
+}

@@ -1,0 +1,9 @@
+{
+  "status": "pending_external_credentials",
+  "reason": "缺少 LLM_API_KEY/OPENAI_API_KEY 或 LLM_MODEL/OPENAI_MODEL。",
+  "sample_size": 48,
+  "model": null,
+  "api_url": "https://api.openai.com/v1/chat/completions",
+  "generated_at": "2026-09-15T05:38:47.824Z",
+  "next": "配置环境变量后重新运行 node src/llm_compare.js"
+}

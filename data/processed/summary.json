@@ -1,0 +1,464 @@
+{
+  "generated_at": "2026-09-15T05:20:07.199Z",
+  "observation_start": "2025-09-01T00:00:00.000Z",
+  "observation_end": "2026-09-15T05:20:07.199Z",
+  "total": 1431,
+  "source_counts": {
+    "B站": 18,
+    "TapTap": 162,
+    "Steam": 800,
+    "苹果应用商店": 451
+  },
+  "theme_counts": {
+    "搜打撤与经济": 183,
+    "匹配与队友": 91,
+    "其他": 293,
+    "正向反馈": 403,
+    "地图与模式": 61,
+    "任务与成长": 26,
+    "客服与封禁": 37,
+    "界面与操作体验": 31,
+    "性能与优化": 125,
+    "付费与通行证": 21,
+    "外挂与安全": 99,
+    "武器与干员平衡": 61
+  },
+  "sentiment_counts": {
+    "负向": 678,
+    "正向": 631,
+    "中性": 25,
+    "混合": 97
+  },
+  "severity_counts": {
+    "中": 497,
+    "低": 703,
+    "严重": 55,
+    "高": 176
+  },
+  "month_counts": {
+    "2026-09": 1350,
+    "2026-08": 42,
+    "2026-07": 6,
+    "2026-06": 3,
+    "2026-05": 3,
+    "2026-04": 1,
+    "2026-03": 2,
+    "2026-01": 1,
+    "2025-12": 1,
+    "2025-11": 2,
+    "2025-10": 18,
+    "2025-09": 2
+  },
+  "source_theme_matrix": {
+    "B站": {
+      "搜打撤与经济": 5,
+      "其他": 7,
+      "任务与成长": 1,
+      "匹配与队友": 1,
+      "地图与模式": 2,
+      "界面与操作体验": 1,
+      "付费与通行证": 1
+    },
+    "TapTap": {
+      "匹配与队友": 11,
+      "正向反馈": 12,
+      "搜打撤与经济": 52,
+      "其他": 2,
+      "地图与模式": 20,
+      "性能与优化": 9,
+      "界面与操作体验": 5,
+      "武器与干员平衡": 24,
+      "任务与成长": 7,
+      "客服与封禁": 5,
+      "付费与通行证": 3,
+      "外挂与安全": 12
+    },
+    "Steam": {
+      "正向反馈": 283,
+      "搜打撤与经济": 29,
+      "匹配与队友": 48,
+      "地图与模式": 21,
+      "其他": 200,
+      "任务与成长": 11,
+      "客服与封禁": 13,
+      "性能与优化": 85,
+      "外挂与安全": 71,
+      "付费与通行证": 10,
+      "界面与操作体验": 20,
+      "武器与干员平衡": 9
+    },
+    "苹果应用商店": {
+      "外挂与安全": 16,
+      "搜打撤与经济": 97,
+      "正向反馈": 108,
+      "付费与通行证": 7,
+      "其他": 84,
+      "性能与优化": 31,
+      "匹配与队友": 31,
+      "地图与模式": 18,
+      "客服与封禁": 19,
+      "界面与操作体验": 5,
+      "任务与成长": 7,
+      "武器与干员平衡": 28
+    }
+  },
+  "theme_severity_matrix": {
+    "搜打撤与经济": {
+      "中": 65,
+      "低": 92,
+      "严重": 1,
+      "高": 25
+    },
+    "匹配与队友": {
+      "低": 34,
+      "中": 48,
+      "严重": 3,
+      "高": 6
+    },
+    "其他": {
+      "低": 36,
+      "中": 255,
+      "严重": 2
+    },
+    "正向反馈": {
+      "低": 403
+    },
+    "地图与模式": {
+      "中": 13,
+      "低": 39,
+      "高": 7,
+      "严重": 2
+    },
+    "任务与成长": {
+      "低": 14,
+      "中": 10,
+      "严重": 1,
+      "高": 1
+    },
+    "客服与封禁": {
+      "严重": 2,
+      "高": 31,
+      "中": 3,
+      "低": 1
+    },
+    "界面与操作体验": {
+      "低": 18,
+      "中": 12,
+      "高": 1
+    },
+    "性能与优化": {
+      "中": 63,
+      "低": 28,
+      "严重": 29,
+      "高": 5
+    },
+    "付费与通行证": {
+      "低": 11,
+      "高": 2,
+      "严重": 3,
+      "中": 5
+    },
+    "外挂与安全": {
+      "中": 2,
+      "高": 85,
+      "严重": 12
+    },
+    "武器与干员平衡": {
+      "低": 27,
+      "中": 21,
+      "高": 13
+    }
+  },
+  "theme_details": [
+    {
+      "theme": "其他",
+      "count": 293,
+      "share": 20.5,
+      "negative": 285,
+      "negative_share": 97.3,
+      "positive": 0,
+      "positive_share": 0,
+      "average_severity": 1.89,
+      "priority_score": 554
+    },
+    {
+      "theme": "正向反馈",
+      "count": 403,
+      "share": 28.2,
+      "negative": 0,
+      "negative_share": 0,
+      "positive": 403,
+      "positive_share": 100,
+      "average_severity": 1,
+      "priority_score": 403
+    },
+    {
+      "theme": "外挂与安全",
+      "count": 99,
+      "share": 6.9,
+      "negative": 89,
+      "negative_share": 89.9,
+      "positive": 10,
+      "positive_share": 10.1,
+      "average_severity": 3.1,
+      "priority_score": 307
+    },
+    {
+      "theme": "搜打撤与经济",
+      "count": 183,
+      "share": 12.8,
+      "negative": 104,
+      "negative_share": 56.8,
+      "positive": 75,
+      "positive_share": 41,
+      "average_severity": 1.64,
+      "priority_score": 301
+    },
+    {
+      "theme": "性能与优化",
+      "count": 125,
+      "share": 8.7,
+      "negative": 97,
+      "negative_share": 77.6,
+      "positive": 27,
+      "positive_share": 21.6,
+      "average_severity": 2.28,
+      "priority_score": 285
+    },
+    {
+      "theme": "匹配与队友",
+      "count": 91,
+      "share": 6.4,
+      "negative": 61,
+      "negative_share": 67,
+      "positive": 28,
+      "positive_share": 30.8,
+      "average_severity": 1.76,
+      "priority_score": 160
+    },
+    {
+      "theme": "客服与封禁",
+      "count": 37,
+      "share": 2.6,
+      "negative": 37,
+      "negative_share": 100,
+      "positive": 0,
+      "positive_share": 0,
+      "average_severity": 2.92,
+      "priority_score": 108
+    },
+    {
+      "theme": "武器与干员平衡",
+      "count": 61,
+      "share": 4.3,
+      "negative": 37,
+      "negative_share": 60.7,
+      "positive": 21,
+      "positive_share": 34.4,
+      "average_severity": 1.77,
+      "priority_score": 108
+    },
+    {
+      "theme": "地图与模式",
+      "count": 61,
+      "share": 4.3,
+      "negative": 27,
+      "negative_share": 44.3,
+      "positive": 32,
+      "positive_share": 52.5,
+      "average_severity": 1.54,
+      "priority_score": 94
+    },
+    {
+      "theme": "界面与操作体验",
+      "count": 31,
+      "share": 2.2,
+      "negative": 14,
+      "negative_share": 45.2,
+      "positive": 15,
+      "positive_share": 48.4,
+      "average_severity": 1.45,
+      "priority_score": 45
+    },
+    {
+      "theme": "任务与成长",
+      "count": 26,
+      "share": 1.8,
+      "negative": 13,
+      "negative_share": 50,
+      "positive": 11,
+      "positive_share": 42.3,
+      "average_severity": 1.58,
+      "priority_score": 41
+    },
+    {
+      "theme": "付费与通行证",
+      "count": 21,
+      "share": 1.5,
+      "negative": 11,
+      "negative_share": 52.4,
+      "positive": 9,
+      "positive_share": 42.9,
+      "average_severity": 1.86,
+      "priority_score": 39
+    }
+  ],
+  "recent_7d": {
+    "count": 1218,
+    "theme_counts": {
+      "搜打撤与经济": 136,
+      "匹配与队友": 77,
+      "其他": 270,
+      "正向反馈": 360,
+      "地图与模式": 40,
+      "任务与成长": 19,
+      "客服与封禁": 34,
+      "界面与操作体验": 25,
+      "性能与优化": 117,
+      "付费与通行证": 18,
+      "外挂与安全": 81,
+      "武器与干员平衡": 41
+    },
+    "negative_count": 659
+  },
+  "representative_comments": [
+    {
+      "feedback_id": "DFF-000020",
+      "source": "Steam",
+      "theme": "客服与封禁",
+      "sentiment": "负向",
+      "severity": "严重",
+      "content": "broooo i just downloaded this game and after 1 min i got account suspended...♥♥♥♥ it bro",
+      "source_url": "https://steamcommunity.com/app/2507950/reviews/?browsefilter=mostrecent"
+    },
+    {
+      "feedback_id": "DFF-000052",
+      "source": "Steam",
+      "theme": "匹配与队友",
+      "sentiment": "混合",
+      "severity": "严重",
+      "content": "good for team, not for solo players. if ur solo plz avoid this game and never come back",
+      "source_url": "https://steamcommunity.com/app/2507950/reviews/?browsefilter=mostrecent"
+    },
+    {
+      "feedback_id": "DFF-000073",
+      "source": "TapTap",
+      "theme": "搜打撤与经济",
+      "sentiment": "负向",
+      "severity": "严重",
+      "content": "第1次在应用商店下的，玩了也有一段时间了，这游戏最大的特点是： 王者死多了，补偿人机局 和平死多了，补偿无人局 暗区死多了，补偿高爆局 三角洲死多了，补偿黑屋局😂😂😂 先不说绝密保险全都是小紫诈骗，运气好给个小金，还有黑屋机制和ai强度做的一坨屎，跑刀要进黑屋，猛攻要进黑屋，夺舍要进黑屋，堵桥要进黑屋，正常打要进黑屋，撤的多了要进黑屋，撤的少了也要进黑",
+      "source_url": "https://www.taptap.cn/app/330259/review"
+    },
+    {
+      "feedback_id": "DFF-000088",
+      "source": "Steam",
+      "theme": "外挂与安全",
+      "sentiment": "负向",
+      "severity": "严重",
+      "content": "游戏外挂太多，语音经常出现误封",
+      "source_url": "https://steamcommunity.com/app/2507950/reviews/?browsefilter=mostrecent"
+    },
+    {
+      "feedback_id": "DFF-000095",
+      "source": "TapTap",
+      "theme": "性能与优化",
+      "sentiment": "负向",
+      "severity": "严重",
+      "content": "11s一局闪退4-5次[表情_捂脸哭]",
+      "source_url": "https://www.taptap.cn/app/330259/review"
+    },
+    {
+      "feedback_id": "DFF-000155",
+      "source": "苹果应用商店",
+      "theme": "付费与通行证",
+      "sentiment": "负向",
+      "severity": "严重",
+      "content": "同学送我一个通行证直接给我防沉迷，防沉迷搞都搞不起来验证了也没用，一直给你卡再登录页面玩都玩不起来，骗钱游戏三角洲蒸蒸日上",
+      "source_url": "https://itunes.apple.com/cn/review?id=1642894547&type=Purple%20Software"
+    },
+    {
+      "feedback_id": "DFF-000248",
+      "source": "苹果应用商店",
+      "theme": "任务与成长",
+      "sentiment": "混合",
+      "severity": "严重",
+      "content": "那些黑粉玩不了就不要玩，我觉得官方做得很好，也是肉眼可见的改进，而且福利也很多",
+      "source_url": "https://itunes.apple.com/cn/review?id=1642894547&type=Purple%20Software"
+    },
+    {
+      "feedback_id": "DFF-000275",
+      "source": "苹果应用商店",
+      "theme": "其他",
+      "sentiment": "负向",
+      "severity": "严重",
+      "content": "刚开始接触感觉挺好玩。到后面没法玩天天亏钱",
+      "source_url": "https://itunes.apple.com/cn/review?id=1642894547&type=Purple%20Software"
+    },
+    {
+      "feedback_id": "DFF-001323",
+      "source": "TapTap",
+      "theme": "地图与模式",
+      "sentiment": "混合",
+      "severity": "严重",
+      "content": "总结：纯傻福游戏 优点：本来新赛季进行了画面优化和手感优化，玩法也多样化了，多少是该夸夸的。 缺点：包括但不限于运营模式、举报问题、游戏平衡性及各种恶性 bug 这就不得不提到这sfm运营了，各种新赛季 bug 就先不说了（包括但不限于可以听到全图声音，各种掉帧、卡帧以及疯狂闪退、画面频闪、以及每个新赛季都必定要享受的操作设置重置等），咱就谈谈这举报系统，这",
+      "source_url": "https://www.taptap.cn/app/330259/review"
+    },
+    {
+      "feedback_id": "DFF-000277",
+      "source": "苹果应用商店",
+      "theme": "武器与干员平衡",
+      "sentiment": "负向",
+      "severity": "高",
+      "content": "越玩越失望，真心劝退普通玩家。该削弱的强势内容迟迟不调整，强度失衡完全摆烂不管。游戏物价一路飙升，子弹、护甲、改枪配件价格贵得离谱，随便配一套装备成本极高，打输一把直接亏空仓库，越打越穷，经济系统彻底崩坏，阴间干员不削弱 各种丧失户口本的打法 对局环境更是阴间，根本不是正常对枪博弈。到处都是蹲点阴人、套路偷袭的非人类打法，不拼枪法拼蹲守，辛辛苦苦搜半天，还没",
+      "source_url": "https://itunes.apple.com/cn/review?id=1642894547&type=Purple%20Software"
+    }
+  ],
+  "quality": {
+    "raw_items": 1469,
+    "valid_items": 1431,
+    "invalid_items": 38,
+    "duplicates_removed": 0,
+    "unique_authors": 1431,
+    "languages": {
+      "zh-CN": 856,
+      "es-419": 7,
+      "es": 23,
+      "en": 250,
+      "pt-BR": 52,
+      "ru": 83,
+      "ko": 34,
+      "norwegian": 1,
+      "th": 14,
+      "uk": 4,
+      "it": 5,
+      "tr": 29,
+      "fr": 23,
+      "bulgarian": 1,
+      "zh-Hant": 12,
+      "de": 15,
+      "pl": 6,
+      "indonesian": 3,
+      "ja": 4,
+      "hungarian": 2,
+      "romanian": 2,
+      "danish": 1,
+      "arabic": 1,
+      "czech": 1,
+      "dutch": 1,
+      "finnish": 1
+    },
+    "sources": {
+      "B站": 18,
+      "TapTap": 162,
+      "Steam": 800,
+      "苹果应用商店": 451
+    }
+  },
+  "limitations": [
+    "Steam 与 Apple 的公开接口能返回较新评论，但接口排序和可见范围由平台决定。",
+    "TapTap 本次读取公开分页样本，接口显示总量存在上限，不能视作完整总体。",
+    "B站仅覆盖公开搜索命中的视频，且采集时段触发过平台限流，样本量明显少于其他来源。",
+    "规则分类适合快速监控，反讽、行业黑话和多主题评论仍需要人工复核。",
+    "各来源人群与活跃度不同，来源占比不代表游戏整体玩家结构。"
+  ]
+}

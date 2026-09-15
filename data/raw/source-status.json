@@ -1,0 +1,379 @@
+{
+  "collected_at": "2026-09-15T05:13:08.891Z",
+  "source_count": 4,
+  "feedback_count": 1469,
+  "source_counts": {
+    "Steam": 800,
+    "苹果应用商店": 451,
+    "TapTap": 200,
+    "B站": 18
+  },
+  "sources": {
+    "steam": {
+      "source": "Steam",
+      "endpoint": "https://store.steampowered.com/appreviews/2507950",
+      "public_access": true,
+      "started_at": "2026-09-15T05:10:52.264Z",
+      "finished_at": "2026-09-15T05:11:01.295Z",
+      "requested_items": 800,
+      "collected_items": 800,
+      "total_available": 195232,
+      "pages": 10,
+      "limitation": "只采集最近 365 天可见评论；Steam 游标接口最多逐页读取。"
+    },
+    "apple": {
+      "source": "苹果应用商店",
+      "endpoint": "https://itunes.apple.com/cn/rss/customerreviews/id=1642894547",
+      "public_access": true,
+      "started_at": "2026-09-15T05:11:01.302Z",
+      "finished_at": "2026-09-15T05:11:09.750Z",
+      "requested_items": 600,
+      "collected_items": 451,
+      "pages": 10,
+      "limitation": "Apple 公开 RSS 已读取到可分页上限，最多返回最近约 450—500 条评论。"
+    },
+    "taptap": {
+      "source": "TapTap",
+      "endpoint": "https://www.taptap.cn/webapiv2/review/v2/list-by-app?app_id=330259",
+      "public_access": true,
+      "started_at": "2026-09-15T05:11:09.753Z",
+      "finished_at": "2026-09-15T05:11:30.127Z",
+      "requested_items": 320,
+      "collected_items": 200,
+      "total_available": 10000,
+      "pages": 20,
+      "limitation": "TapTap 接口返回的公开评论总量上限显示为 10000，本次仅按可用分页读取样本。"
+    },
+    "bilibili": {
+      "source": "B站",
+      "endpoint": "https://api.bilibili.com/x/v2/reply/main",
+      "discovery_endpoint": "https://api.bilibili.com/x/web-interface/search/type",
+      "public_access": true,
+      "started_at": "2026-09-15T05:11:30.130Z",
+      "finished_at": "2026-09-15T05:12:19.572Z",
+      "requested_items": 420,
+      "collected_items": 18,
+      "video_count": 1,
+      "candidate_count": 144,
+      "queries": [
+        {
+          "keyword": "三角洲行动 外挂",
+          "success": true,
+          "accepted": 11
+        },
+        {
+          "keyword": "三角洲行动 优化 卡顿",
+          "success": true,
+          "accepted": 5
+        },
+        {
+          "keyword": "三角洲行动 匹配 队友",
+          "success": true,
+          "accepted": 16
+        },
+        {
+          "keyword": "三角洲行动 爆率",
+          "success": false,
+          "message": "HTTP 412 https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%20%E7%88%86%E7%8E%87&page=1&page_size=50&order=pubdate"
+        },
+        {
+          "keyword": "三角洲行动 烽火地带 评价",
+          "success": true,
+          "accepted": 24
+        },
+        {
+          "keyword": "三角洲行动 赛季 反馈",
+          "success": true,
+          "accepted": 21
+        },
+        {
+          "keyword": "三角洲行动 官方 评论区",
+          "success": true,
+          "accepted": 20
+        },
+        {
+          "keyword": "三角洲行动 差评",
+          "success": true,
+          "accepted": 28
+        },
+        {
+          "keyword": "三角洲行动 平衡 干员",
+          "success": false,
+          "message": "HTTP 412 https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%20%E5%B9%B3%E8%A1%A1%20%E5%B9%B2%E5%91%98&page=1&page_size=50&order=pubdate"
+        },
+        {
+          "keyword": "三角洲行动 通行证 皮肤",
+          "success": true,
+          "accepted": 19
+        }
+      ],
+      "videos": [
+        {
+          "bvid": "BV1iZeG6DEG8",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1zDeG6xEiw",
+          "pages": 2,
+          "collected": 18,
+          "error": ""
+        },
+        {
+          "bvid": "BV1G1eV6UELV",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV186Yy68Enx",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1mzYk6HE78",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1AAYB6hEHr",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1A2YB6wETS",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1yeYi6aEDd",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV15bYY6ME61",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1fYYD6tELC",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1huYX6XEBH",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1q7Y768EkG",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV15wYE68Eid",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1NkY765Ewy",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1AWYj6qE9L",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1wLYg6UEsd",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1xbY36fEor",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV19GY36zEcm",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV16XYM6yEVz",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1eUYu6TEdf",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1phYu6UEC4",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1NNYg64ECp",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1A3Yg6HEGq",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        },
+        {
+          "bvid": "BV1MwYg6tEkV",
+          "pages": 1,
+          "collected": 0,
+          "error": ""
+        }
+      ],
+      "limitation": "B站评论仅覆盖公开搜索命中的视频，按 2 秒以上间隔低频读取；风控触发时不会绕过验证码。",
+      "supplement": {
+        "collected_at": "2026-09-15T05:13:08.891Z",
+        "approached_videos": 18,
+        "added_items": 0,
+        "results": [
+          {
+            "bvid": "BV19GY36zEcm",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1iZeG6DEG8",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1xbY36fEor",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1NNYg64ECp",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1AWYj6qE9L",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1huYX6XEBH",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1A3Yg6HEGq",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1A2YB6wETS",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1eUYu6TEdf",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1q7Y768EkG",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1mzYk6HE78",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1G1eV6UELV",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1phYu6UEC4",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV15bYY6ME61",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1NkY765Ewy",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1zDeG6xEiw",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1MwYg6tEkV",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          },
+          {
+            "bvid": "BV1AAYB6hEHr",
+            "response_count": 0,
+            "accepted": 0,
+            "error": ""
+          }
+        ]
+      }
+    }
+  },
+  "notes": [
+    "所有用户名和头像均未写入原始快照，作者标识仅保留不可逆短哈希。",
+    "采集仅访问公开页面或公开接口，不绕过登录、验证码或访问控制。",
+    "各来源的可见样本量不同，不能直接外推为全部玩家意见。"
+  ]
+}
